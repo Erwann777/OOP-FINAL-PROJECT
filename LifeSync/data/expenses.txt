@@ -1,0 +1,6 @@
+1|15.50|Food|25/10/2026|Lunch at cafeteria
+2|8.00|Transport|25/10/2026|Bus fare
+3|45.00|Books|26/10/2026|C++ Primer textbook
+4|12.00|Food|26/10/2026|Dinner with friends
+5|25.00|Entertainment|27/10/2026|Movie tickets
+6|5.50|Food|27/10/2026|Coffee and snacks

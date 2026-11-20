@@ -1,0 +1,15 @@
+Bill|7|Electricity Bill|31/10/2026|0|120.50|0
+Bill|8|Internet Subscription|05/11/2026|0|89.00|0
+Habit|5|Morning Exercise|28/10/2026|0|7|10
+Assignment|1|OOP Project Report|15/11/2026|0|BAI22123 Object-Oriented Programming|30
+Assignment|2|Data Structures Assignment|05/11/2026|0|CS201 Data Structures|20
+Bill|16|school fee|12/10/2027|0|1000.00|0
+Assignment|12|erwan|12/12/2027|0|er|100
+Assignment|11|er|13/12/2026|0|er|90
+Habit|15|basketball|14/12/2026|0|0|0
+Assignment|10|learn oop|12/12/2026|0|oop|50
+Assignment|13|erwan|12/12/2026|1|erwan|40
+Appointment|3|Doctor Check-up|28/10/2026|0|10:00|Klinik Bestari
+Appointment|4|Group Project Meeting|01/11/2026|0|14:00|Library Room 3
+Habit|6|Read 30 Minutes|28/10/2026|1|4|5
+Bill|9|Hostel Fees|01/11/2026|1|350.00|1

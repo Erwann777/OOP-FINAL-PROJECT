@@ -1,0 +1,14 @@
+# Build outputs
+out/
+build/
+.vs/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.user
+
+# Temporary files
+*.bak
+.DS_Store
+Thumbs.db
